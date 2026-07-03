@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\Api;
 
-use App\Concerns\TaskControllerActionsInterface;
+use App\Contracts\TaskControllerActionsInterface;
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Task\TaskIndexRequest;
 use App\Http\Requests\Task\TaskStoreRequest;

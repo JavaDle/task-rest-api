@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Concerns;
+namespace App\Contracts;
 
 use App\Http\Requests\Task\TaskIndexRequest;
 use App\Http\Requests\Task\TaskStoreRequest;

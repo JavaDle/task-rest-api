@@ -3,7 +3,7 @@
 namespace App\Providers;
 
 use App\Actions\TaskControllerActions;
-use App\Concerns\TaskControllerActionsInterface;
+use App\Contracts\TaskControllerActionsInterface;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
